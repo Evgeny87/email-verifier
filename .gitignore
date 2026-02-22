@@ -1,0 +1,23 @@
+# Зависимости
+/vendor/
+/composer.lock
+.venv
+
+# Конфигурация и секреты
+.env
+.env.example
+
+# Логи и временные файлы
+/logs/
+*.log
+
+# Служебные файлы систем и IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Прочее
+Thumbs.db

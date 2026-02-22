@@ -1,0 +1,14 @@
+{
+    "name": "evgeny87/email-verifier",
+    "description": "Library for email validation using regex and DNS MX records",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "evgeny87\\EmailVerifier\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
